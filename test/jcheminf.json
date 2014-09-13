@@ -1,0 +1,395 @@
+{
+  "http://www.jcheminf.com/content/6/1/31": [
+    {
+      "publisher": "Chemistry Central Ltd"
+    },
+    {
+      "title": "Efficient enumeration of monocyclic chemical graphs with given path frequencies"
+    },
+    {
+      "authors": "Masaki Suzuki"
+    },
+    {
+      "authors": "Hiroshi Nagamochi"
+    },
+    {
+      "authors": "Tatsuya Akutsu"
+    },
+    {
+      "date": "2014-05-30"
+    },
+    {
+      "volume": "6"
+    },
+    {
+      "issue": "1"
+    },
+    {
+      "firstpage": "31"
+    },
+    {
+      "doi": "10.1186/1758-2946-6-31"
+    },
+    {
+      "journal": "Journal of Cheminformatics"
+    },
+    {
+      "abstract": "The enumeration of chemical graphs (molecular graphs) satisfying given constraints is one of the fundamental problems in chemoinformatics and bioinformatics because it leads to a variety of useful applications including structure determination and development of novel chemical compounds."
+    },
+    {
+      "abstract_html": "http://www.jcheminf.com/content/6/1/31/abstract"
+    },
+    {
+      "language": "en"
+    },
+    {
+      "fulltext_pdf": "http://www.jcheminf.com/content/pdf/1758-2946-6-31.pdf"
+    },
+    {
+      "fulltext_html": "http://www.jcheminf.com/content/6/1/31"
+    },
+    {
+      "copyright": "2014 Suzuki et al.; licensee Chemistry Central Ltd."
+    },
+    {
+      "rights": "http://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "abstract": "2d5d903043a6e278d952a2817dcb667b"
+    },
+    {
+      "rendered.html": "80791114c8dd630cf06d765cfa5b7f0e"
+    }
+  ],
+  "http://www.jcheminf.com/content/6/1/43": [
+    {
+      "publisher": "Chemistry Central Ltd"
+    },
+    {
+      "title": "UniChem: extension of InChI-based compound mapping to salt, connectivity and stereochemistry layers"
+    },
+    {
+      "authors": "Jon Chambers"
+    },
+    {
+      "authors": "Mark Davies"
+    },
+    {
+      "authors": "Anna Gaulton"
+    },
+    {
+      "authors": "George Papadatos"
+    },
+    {
+      "authors": "Anne Hersey"
+    },
+    {
+      "authors": "John P Overington"
+    },
+    {
+      "date": "2014-09-04"
+    },
+    {
+      "volume": "6"
+    },
+    {
+      "issue": "1"
+    },
+    {
+      "firstpage": "43"
+    },
+    {
+      "doi": "10.1186/s13321-014-0043-5"
+    },
+    {
+      "journal": "Journal of Cheminformatics"
+    },
+    {
+      "abstract": "UniChem is a low-maintenance, fast and freely available compound identifier mapping service, recently made available on the Internet. Until now, the criterion of molecular equivalence within UniChem has been on the basis of complete identity between Standard InChIs. However, a limitation of this approach is that stereoisomers, isotopes and salts of otherwise identical molecules are not considered as related. Here, we describe how we have exploited the layered structural representation of the Standard InChI to create new functionality within UniChem that integrates these related molecular forms. The service, called ‘Connectivity Search’ allows molecules to be first matched on the basis of complete identity between the connectivity layer of their corresponding Standard InChIs, and the remaining layers then compared to highlight stereochemical and isotopic differences. Parsing of Standard InChI sub-layers permits mixtures and salts to also be included in this integration process. Implementation of these enhancements required simple modifications to the schema, loader and web application, but none of which have changed the original UniChem functionality or services. The scope of queries may be varied using a variety of easily configurable options, and the output is annotated to assist the user to filter, sort and understand the difference between query and retrieved structures. A RESTful web service output may be easily processed programmatically to allow developers to present the data in whatever form they believe their users will require, or to define their own level of molecular equivalence for their resource, albeit within the constraint of identical connectivity."
+    },
+    {
+      "abstract_html": "http://www.jcheminf.com/content/6/1/43/abstract"
+    },
+    {
+      "language": "en"
+    },
+    {
+      "fulltext_pdf": "http://www.jcheminf.com/content/pdf/s13321-014-0043-5.pdf"
+    },
+    {
+      "fulltext_html": "http://www.jcheminf.com/content/6/1/43"
+    },
+    {
+      "copyright": "2014 Chambers et al.; licensee Chemistry Central Ltd."
+    },
+    {
+      "rights": "http://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "abstract": "46485b48836d75cec770e5bb1fb8b3b2"
+    },
+    {
+      "rendered.html": "31c12f1a41d223f4f366a565dce2a9f0"
+    }
+  ],
+  "http://www.jcheminf.com/content/4/1/17": [
+    {
+      "publisher": "Chemistry Central Ltd"
+    },
+    {
+      "title": "Avogadro: an advanced semantic chemical editor, visualization, and analysis platform"
+    },
+    {
+      "authors": "Marcus D Hanwell"
+    },
+    {
+      "authors": "Donald E Curtis"
+    },
+    {
+      "authors": "David C Lonie"
+    },
+    {
+      "authors": "Tim Vandermeersch"
+    },
+    {
+      "authors": "Eva Zurek"
+    },
+    {
+      "authors": "Geoffrey R Hutchison"
+    },
+    {
+      "date": "2012-08-13"
+    },
+    {
+      "volume": "4"
+    },
+    {
+      "issue": "1"
+    },
+    {
+      "firstpage": "17"
+    },
+    {
+      "doi": "10.1186/1758-2946-4-17"
+    },
+    {
+      "journal": "Journal of Cheminformatics"
+    },
+    {
+      "abstract": "The Avogadro project has developed an advanced molecule editor and visualizer designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas. It offers flexible, high quality rendering, and a powerful plugin architecture. Typical uses include building molecular structures, formatting input files, and analyzing output of a wide variety of computational chemistry packages. By using the CML file format as its native document type, Avogadro seeks to enhance the semantic accessibility of chemical data types."
+    },
+    {
+      "abstract_html": "http://www.jcheminf.com/content/abstract"
+    },
+    {
+      "language": "en"
+    },
+    {
+      "fulltext_pdf": "http://www.jcheminf.com/content/pdf/1758-2946-4-17.pdf"
+    },
+    {
+      "fulltext_html": "http://www.jcheminf.com/content"
+    },
+    {
+      "copyright": "2012 Hanwell et al.; licensee Chemistry Central Ltd."
+    },
+    {
+      "rights": "http://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "rendered.html": "6d74018607f71e927e4c018ceda23b42"
+    }
+  ],
+  "http://www.jcheminf.com/content/6/1/35": [
+    {
+      "publisher": "Chemistry Central Ltd"
+    },
+    {
+      "title": "Proteochemometric modeling in a Bayesian framework"
+    },
+    {
+      "authors": "Isidro Cortes-Ciriano"
+    },
+    {
+      "authors": "Gerard JP van Westen"
+    },
+    {
+      "authors": "Eelke B Lenselink"
+    },
+    {
+      "authors": "Daniel S Murrell"
+    },
+    {
+      "authors": "Andreas Bender"
+    },
+    {
+      "authors": "Thérèse Malliavin"
+    },
+    {
+      "date": "2014-06-28"
+    },
+    {
+      "volume": "6"
+    },
+    {
+      "issue": "1"
+    },
+    {
+      "firstpage": "35"
+    },
+    {
+      "doi": "10.1186/1758-2946-6-35"
+    },
+    {
+      "journal": "Journal of Cheminformatics"
+    },
+    {
+      "abstract": "Proteochemometrics (PCM) is an approach for bioactivity predictive modeling which models the relationship between protein and chemical information. Gaussian Processes (GP), based on Bayesian inference, provide the most objective estimation of the uncertainty of the predictions, thus permitting the evaluation of the applicability domain (AD) of the model. Furthermore, the experimental error on bioactivity measurements can be used as input for this probabilistic model."
+    },
+    {
+      "abstract_html": "http://www.jcheminf.com/content/6/1/35/abstract"
+    },
+    {
+      "language": "en"
+    },
+    {
+      "fulltext_pdf": "http://www.jcheminf.com/content/pdf/1758-2946-6-35.pdf"
+    },
+    {
+      "fulltext_html": "http://www.jcheminf.com/content/6/1/35"
+    },
+    {
+      "copyright": "2014 Cortes-Ciriano et al.; licensee Chemistry Central Ltd."
+    },
+    {
+      "rights": "http://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "abstract": "0958ea37d4818ffc5764b5aa58dbbbda"
+    },
+    {
+      "rendered.html": "9c9a5ea85493e32266602b20005131f7"
+    }
+  ],
+  "http://www.jcheminf.com/content/1/1/15": [
+    {
+      "publisher": "Chemistry Central Ltd"
+    },
+    {
+      "title": "Application of the PM6 semi-empirical method to modeling proteins enhances docking accuracy of AutoDock"
+    },
+    {
+      "authors": "Zsolt Bikadi"
+    },
+    {
+      "authors": "Eszter Hazai"
+    },
+    {
+      "date": "2009-09-11"
+    },
+    {
+      "volume": "1"
+    },
+    {
+      "issue": "1"
+    },
+    {
+      "firstpage": "15"
+    },
+    {
+      "doi": "10.1186/1758-2946-1-15"
+    },
+    {
+      "journal": "Journal of Cheminformatics"
+    },
+    {
+      "abstract": "Molecular docking methods are commonly used for predicting binding modes and energies of ligands to proteins. For accurate complex geometry and binding energy estimation, an appropriate method for calculating partial charges is essential. AutoDockTools software, the interface for preparing input files for one of the most widely used docking programs AutoDock 4, utilizes the Gasteiger partial charge calculation method for both protein and ligand charge calculation. However, it has already been shown that more accurate partial charge calculation - and as a consequence, more accurate docking- can be achieved by using quantum chemical methods. For docking calculations quantum chemical partial charge calculation as a routine was only used for ligands so far. The newly developed Mozyme function of MOPAC2009 allows fast partial charge calculation of proteins by quantum mechanical semi-empirical methods. Thus, in the current study, the effect of semi-empirical quantum-mechanical partial charge calculation on docking accuracy could be investigated."
+    },
+    {
+      "abstract_html": "http://www.jcheminf.com/content/1/1/15/abstract"
+    },
+    {
+      "language": "en"
+    },
+    {
+      "fulltext_pdf": "http://www.jcheminf.com/content/pdf/1758-2946-1-15.pdf"
+    },
+    {
+      "fulltext_html": "http://www.jcheminf.com/content/1/1/15"
+    },
+    {
+      "copyright": "2009 Bikadi and Hazai; licensee BioMed Central Ltd."
+    },
+    {
+      "rights": "http://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "abstract": "994e97aa4214e4c220b2311297c6434b"
+    },
+    {
+      "rendered.html": "ac3e9962d458a07e2dfe357da660b914"
+    }
+  ],
+  "http://www.jcheminf.com/content/4/1/23": [
+    {
+      "publisher": "Chemistry Central Ltd"
+    },
+    {
+      "title": "Template-based combinatorial enumeration of virtual compound libraries for lipids"
+    },
+    {
+      "authors": "Manish Sud"
+    },
+    {
+      "authors": "Eoin Fahy"
+    },
+    {
+      "authors": "Shankar Subramaniam"
+    },
+    {
+      "date": "2012-09-25"
+    },
+    {
+      "volume": "4"
+    },
+    {
+      "issue": "1"
+    },
+    {
+      "firstpage": "23"
+    },
+    {
+      "doi": "10.1186/1758-2946-4-23"
+    },
+    {
+      "journal": "Journal of Cheminformatics"
+    },
+    {
+      "abstract": "A variety of software packages are available for the combinatorial enumeration of virtual libraries for small molecules, starting from specifications of core scaffolds with attachments points and lists of R-groups as SMILES or SD files. Although SD files include atomic coordinates for core scaffolds and R-groups, it is not possible to control 2-dimensional (2D) layout of the enumerated structures generated for virtual compound libraries because different packages generate different 2D representations for the same structure. We have developed a software package called LipidMapsTools for the template-based combinatorial enumeration of virtual compound libraries for lipids. Virtual libraries are enumerated for the specified lipid abbreviations using matching lists of pre-defined templates and chain abbreviations, instead of core scaffolds and lists of R-groups provided by the user. 2D structures of the enumerated lipids are drawn in a specific and consistent fashion adhering to the framework for representing lipid structures proposed by the LIPID MAPS consortium. LipidMapsTools is lightweight, relatively fast and contains no external dependencies. It is an open source package and freely available under the terms of the modified BSD license."
+    },
+    {
+      "abstract_html": "http://www.jcheminf.com/content/4/1/23/abstract"
+    },
+    {
+      "language": "en"
+    },
+    {
+      "fulltext_pdf": "http://www.jcheminf.com/content/pdf/1758-2946-4-23.pdf"
+    },
+    {
+      "fulltext_html": "http://www.jcheminf.com/content/4/1/23"
+    },
+    {
+      "copyright": "2012 Sud et al.; licensee Chemistry Central Ltd."
+    },
+    {
+      "rights": "http://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "abstract": "517cd7a6ef5d19f4fc86a8217197e661"
+    },
+    {
+      "rendered.html": "5c2810ab1cbc3ce62d66f9b053532992"
+    }
+  ]
+}
