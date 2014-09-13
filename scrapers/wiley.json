@@ -38,7 +38,7 @@
       "attribute": "content"
     },
     "abstract_html": {
-      "selector": "//meta[@class='citation_abstract_html_url']",
+      "selector": "//meta[@name='citation_abstract_html_url']",
       "attribute": "content",
       "download": true
     },    
